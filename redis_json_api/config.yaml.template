@@ -1,0 +1,7 @@
+
+redis:
+  host: redis_host_name
+  db: 0 or dbasenumber
+  user: default or redis_user_name
+  password: redis_password
+  port: redis_port
